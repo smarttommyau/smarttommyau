@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%88Hi+There!+I+am+Tommy;C%2CCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CJS%2CHTML)](https://tommygod.ddns.net)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%88Hi+There!+I+am+Tommy;C%2CCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CJS%2CHTML,...)](https://tommygod.ddns.net)
 <br>
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarttommyau&count_private=true&show_icons=true&hide=stars&theme=transparent)](https://github.com/smarttommyau)
 <br>
