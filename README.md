@@ -3,6 +3,6 @@
 [![Tommy's GitHub stats](http://github-readme-stats-vercel-bice.vercel.app/api?username=smarttommyau&count_private=true&show_icons=true&hide=stars&theme=transparent&rank_icon=github)](https://github.com/smarttommyau)
 <br>
 [![Top Langs](https://github-readme-stats-vercel-bice.vercel.app/api/top-langs/?username=smarttommyau&layout=compact&theme=transparent)](https://github.com/smarttommyau)
-[![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smarttommyau&layout=compact&theme=transparent)](https://wakatime.com/@smarttommyau)
+[![Tommy's wakatime stats](https://github-readme-stats-vercel-bice.vercel.app/api/wakatime?username=smarttommyau&layout=compact&theme=transparent)](https://wakatime.com/@smarttommyau)
 <br>
 ![](./text.svg)
