@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I+am+Tommy👋;C%2CCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CJS%2CHTML,...)](https://tommygod.ddns.net)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&width=435&lines=Hi+There!+I+am+Tommy👋👋👋;C%2CCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CJS%2CHTML,...)](https://tommygod.ddns.net)
 <br>
 ![](./text.svg)
 <br>
