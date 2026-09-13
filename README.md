@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&width=435&lines=Hi+There!+I+am+Tommy👋👋👋;C%2FCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CDART%2CTS%2FJS%2CHTML,...)](https://tommygod.ddns.net)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=530&lines=Hi+There!+I+am+Tommy%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;C%2FCPP%2CPYTHON%2CJAVA%2CKOTLIN%2CDART%2CTS%2FJS%2CHTML%2C...)](https://tommygod.ddns.net)
 <br>
 ![](./text.svg)
 <br>
